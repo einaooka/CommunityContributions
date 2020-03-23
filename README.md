@@ -27,7 +27,7 @@
 - Presentation: [CascadiaRConf](../../../CascadiaRConf)
 
 ### University of Washington - CFRM Seminar
-- Date & Location: 
+- Date & Location: Jan 2019, Seattle WA
 - Type: Seminar (20 min)
 - Title: __Wholesale Energy Markets__
 - Presentation: [CFRM_Seminar.pdf](2019/CFRM_Seminar.pdf)
