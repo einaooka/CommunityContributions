@@ -8,7 +8,7 @@
 
 ### Data Science After Dark
 - Date & Location: Feb 2020, Springfield MO
-- Type: Half session (30 min)
+- Type: Meetup (30 min)
 - Title: __Introduction to Utility Analytics__
 - Presentation: [](../../../)
 
@@ -42,7 +42,7 @@
 - Type: Webinar (60 min)
 - Title: __Doing Data Science Right in Excel-Pervasive Utilities__
 
-### 38TH INTERNATIONAL SYMPOSIUM ON FORECASTING
+### 38TH International Symposium on Forecasting
 - Date & Location: Jun 2018, Boulder CO
 - Type: Full session (20 min)
 - Title: __Mid-Term Stochastic Modeling of Energy Markets and its Applications__
