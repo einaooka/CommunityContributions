@@ -1,4 +1,8 @@
 # CommunityContributions
+A list of conference talks, webinars, meetups, and other community contributions. 
+
+***
+2020
 
 ### Utility Analytics Institute - Data Science Meeting
 - Date & Location: Mar 2020, Online
@@ -19,6 +23,7 @@
 - Presentation: [TEA_VoicesOfExperience_AI.pdf](2020/TEA_VoicesOfExperience_AI.pdf2020/TEA_VoicesOfExperience_AI.pdf)
 
 ***
+2019
 
 ### Cascadia R Conference
 - Date & Location: Jun 2019, Bellevue WA
@@ -33,6 +38,7 @@
 - Presentation: [CFRM_Seminar.pdf](2019/CFRM_Seminar.pdf)
 
 ***
+2018
 
 ### EARL Seattle 2018
 - Date & Location: Nov 2018, Seattle WA
@@ -45,13 +51,14 @@
 - Type: Webinar (60 min)
 - Title: __Doing Data Science Right in Excel-Pervasive Utilities__
 
-### 38TH International Symposium on Forecasting
+### 38th International Symposium on Forecasting
 - Date & Location: Jun 2018, Boulder CO
 - Type: Full session (20 min)
 - Title: __Mid-Term Stochastic Modeling of Energy Markets and its Applications__
 - Presentation: [ISF2018](../../../ISF2018)
 
 ***
+2017
 
 ### R-Finance2017
 - Date & Location: May 2017, Chicago IL
@@ -61,6 +68,7 @@
 - Recording: https://channel9.msdn.com/Events/RFinance/RFinance-2017/Lightning-Talks-II-Day-1
 
 ***
+2016
 
 ### 19th Electric Market Forecasting Conference
 - Date & Location: Sep 2016, Atlanta GA
