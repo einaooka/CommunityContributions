@@ -4,19 +4,19 @@
 - Date & Location: Mar 2020, Online
 - Type: Webinar (60 min)
 - Title: __R-Shiny at TEA__
-- Presentation: [](../../../)
+- Presentation: [UAI_DataScienceCommunity_20200317.pdf](2020/UAI_DataScienceCommunity_20200317.pdf)
 
 ### Data Science After Dark
 - Date & Location: Feb 2020, Springfield MO
 - Type: Meetup (30 min)
 - Title: __Introduction to Utility Analytics__
-- Presentation: [](../../../)
+- Presentation: [DataScienceAfterDark_20200218.pdf](2020/DataScienceAfterDark_20200218.pdf)
 
-### Voices of Experience
+### DOE Voices of Experience Regional Workshop
 - Date & Location: Jan 2020, San Antonio TX
 - Type: Lightening Talk (7 min)
 - Title: __Experiences from TEA’s Analytics - 42 is not an answer__
-- Presentation: [](../../../)
+- Presentation: [TEA_VoicesOfExperience_AI.pdf](2020/TEA_VoicesOfExperience_AI.pdf2020/TEA_VoicesOfExperience_AI.pdf)
 
 ***
 
@@ -26,8 +26,11 @@
 - Title: __Time Series Forcasting with Keras: LSTM vs ConvNN__
 - Presentation: [CascadiaRConf](../../../CascadiaRConf)
 
-### University of Washington - Seminar
+### University of Washington - CFRM Seminar
 - Date & Location: 
+- Type: Seminar (20 min)
+- Title: __Wholesale Energy Markets__
+- Presentation: [CFRM_Seminar.pdf](2019/CFRM_Seminar.pdf)
 
 ***
 
