@@ -9,12 +9,14 @@ A list of conference talks, webinars, meetups, and other community contributions
 - Type: Webinar (60 min)
 - Title: __R-Shiny at TEA__
 - Presentation: [UAI_DataScienceCommunity_20200317.pdf](2020/UAI_DataScienceCommunity_20200317.pdf)
+- Recording: https://member.utilityanalytics.com/viewdocument/march-17th-meeting-further-explo (Member login needed). 
 
 ### Data Science After Dark
 - Date & Location: Feb 2020, Springfield MO
 - Type: Meetup (30 min)
 - Title: __Introduction to Utility Analytics__
 - Presentation: [DataScienceAfterDark_20200218.pdf](2020/DataScienceAfterDark_20200218.pdf)
+- Recording: https://www.youtube.com/watch?v=n6ohyC-ng0U&t=495s
 
 ### DOE Voices of Experience Regional Workshop
 - Date & Location: Jan 2020, San Antonio TX
