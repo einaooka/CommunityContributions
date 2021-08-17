@@ -2,6 +2,16 @@
 A list of conference talks, webinars, meetups, and other community contributions. 
 
 ***
+2021
+
+### Utility Analytics Institute - Data Science Meeting
+- Date & Location: Aug 17, 2021, Online
+- Type: Webinar (60 min)
+- Title: __Building Optimization Model for Solar + Storage Hybrid Resource__
+- Presentation: [UAIDataScience_SolarStorageHybridOptimization.pdf](2021/UAIDataScience_Solar%26StorageHybridOptimization.pdf)
+- Recording: coming... (Member login needed). 
+
+***
 2020
 
 ### Utility Analytics Institute - Data Science Meeting
