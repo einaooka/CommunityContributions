@@ -2,10 +2,21 @@
 A list of conference talks, webinars, meetups, and other community contributions. 
 
 ***
+2024
+
+### Western Washington University, Institute for Energy Studies Speaker Series
+- Date & Location: June 4, 2024; Bellingham WA 
+- Type: Full session (60 min)
+- Title: Meeting Societal Goals Through an Open Energy Market - An Intro to Volatile Wholesale
+- url: https://foundation.wwu.edu/event/meeting-societal-goals-through-open-energy-market
+- Presentation: [WWU_EnergyTalk2024.pdf](https://github.com/einaooka/CommunityContributions/blob/master/2024/WWU_EnergyTalk2024.pdf)
+- Recording: coming...
+
+***
 2021
 
 ### Utility Analytics Institute - Data Science Meeting
-- Date & Location: Aug 17, 2021, Online
+- Date & Location: Aug 17, 2021; Online
 - Type: Webinar (60 min)
 - Title: __Building Optimization Model for Solar + Storage Hybrid Resource__
 - Presentation: [UAIDataScience_SolarStorageHybridOptimization.pdf](2021/UAIDataScience_Solar%26StorageHybridOptimization.pdf)
@@ -15,7 +26,7 @@ A list of conference talks, webinars, meetups, and other community contributions
 2020
 
 ### Utility Analytics Institute - Data Science Meeting
-- Date & Location: Mar 2020, Online
+- Date & Location: Mar 2020; Online
 - Type: Webinar (60 min)
 - Title: __R-Shiny at TEA__
 - Presentation: [UAI_DataScienceCommunity_20200317.pdf](2020/UAI_DataScienceCommunity_20200317.pdf)
